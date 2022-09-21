@@ -10,3 +10,4 @@ main 1
 creado por el increible platzi team
 contribuye en el proyectio opensource
 incluye ejemplos en linux y mac
+disponible para toda edad
